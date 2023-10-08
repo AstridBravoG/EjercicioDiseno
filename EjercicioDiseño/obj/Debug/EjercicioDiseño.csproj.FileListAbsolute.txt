@@ -1,0 +1,10 @@
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\bin\Debug\EjercicioDiseño.exe.config
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\bin\Debug\EjercicioDiseño.exe
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\bin\Debug\EjercicioDiseño.pdb
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\obj\Debug\EjercicioDiseño.csproj.AssemblyReference.cache
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\obj\Debug\EjercicioDiseño.Form1.resources
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\obj\Debug\EjercicioDiseño.Properties.Resources.resources
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\obj\Debug\EjercicioDiseño.csproj.GenerateResource.cache
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\obj\Debug\EjercicioDiseño.csproj.CoreCompileInputs.cache
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\obj\Debug\EjercicioDiseño.exe
+C:\Users\lilia\source\repos\EjercicioDiseño\EjercicioDiseño\obj\Debug\EjercicioDiseño.pdb
